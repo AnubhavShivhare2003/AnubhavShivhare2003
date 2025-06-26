@@ -20,10 +20,8 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 - 🧑‍💻 VS Code  
 - 📦 Postman  
 - 🌐 RESTful APIs
----
 
-## 🛠️ Tech Stack & Skills
-
+![Profile Views](https://komarev.com/ghpvc/?username=AnubhavShivhare2003&label=Profile%20Views&color=0e75b6&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![DSA](https://img.shields.io/badge/-DSA-FFA500?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4gPHBhdGggZD0iTTEyIDEuYy05LjMwMiAwLTEwLjcgNi45MDQgMTAuNyAxMi44OTljNi44OTkgMCAxMi44OTktMS40MTYgMTIuODk5LTEyLjg5OUMxOS4xOTYgNi45MDQgMTYuNzAxIDEuMCAxMiAxLjB6IE03LjE4IDE4LjczNmEuODUuODUgMCAxIDAgMC0xLjcwNy44NS44NSAwIDEgMCAwIDEuNzA3eiIvPiA8L3N2Zz4=)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -40,9 +38,9 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 
 ## 🔗 Let's Connect
 
-- 📧 Email: [anubhavshivhare123@gmail.com](anubhavshivhare123@gmail.com)
+- 📧 Email: [anubhavshivhare123@gmail.com](mailto:anubhavshivhare123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/anubhav-shivhare-667617212/)  
-- 💻 [Portfolio](working on it...)
+- 💻 Portfolio: *Coming Soon*
 
 ---
 ## 💡 DSA Proficiency
@@ -60,7 +58,7 @@ I regularly practice Data Structures and Algorithms to improve code efficiency a
 
 - 🧠 [LeetCode](https://leetcode.com/u/Anubhavshivhare123/)
 - 📘 [GeeksForGeeks](https://www.geeksforgeeks.org/user/anubhavshiq83w/)
-- 👨‍💻 [Open Source Contributions](https://github.com/ravithejagolla/Match-me)
+- 👨‍💻 [GitHub Contributions](https://github.com/AnubhavShivhare2003?tab=overview)
 
 ---
 
@@ -68,9 +66,10 @@ I regularly practice Data Structures and Algorithms to improve code efficiency a
 
 Here are some of the projects I’ve worked on:
 
-- **Project 1:** `Resume-Builder-Project` – A user-friendly resume builder that lets users create professional resumes using customizable inbuilt templates.
-- **Project 2:** `Match-me` – A swipe-based matchmaking app that connects users through interactive profiles, real-time engagement, and smart matching algorithms.  
-- **Project 3:** `Virtual Classroom` – A web-based Learning Management System offering virtual classrooms with video conferencing, document sharing, and real-time collaborative tools for an engaging learning experience.  
+- **[Resume-Builder-Project](https://github.com/your-user/Resume-Builder-Project)** – A user-friendly resume builder that lets users create professional resumes using customizable inbuilt templates.
+
+- **[Match-me](https://github.com/ravithejagolla/Match-me)** – A swipe-based matchmaking app that connects users through interactive profiles, real-time engagement, and smart matching algorithms.  
+- **[Virtual-Classroom](https://github.com/vishal7it/B42_WEB_062_Code-Crafters)** – A web-based Learning Management System offering virtual classrooms with video conferencing, document sharing, and real-time collaborative tools for an engaging learning experience.  
 
 > 👉 Visit my repositories to explore more.
 
