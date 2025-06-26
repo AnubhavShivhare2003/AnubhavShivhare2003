@@ -4,24 +4,6 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend:**
-- ⚛️ React.js  
-- 📙 HTML5, CSS3, JavaScript (ES6+)
-
-**Backend:**
-- 🟩 Node.js  
-- 🚂 Express.js  
-- 🍃 MongoDB (Mongoose)
-
-**Tools & Platforms:**
-- 🛠 Git & GitHub  
-- 🧑‍💻 VS Code  
-- 📦 Postman  
-- 🌐 RESTful APIs
-
----
 ## 🛠️ Tech Stack & Skills
 
 ### 🧩 Languages & DSA
