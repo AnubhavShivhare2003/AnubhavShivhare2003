@@ -66,7 +66,7 @@ I regularly practice Data Structures and Algorithms to improve code efficiency a
 
 Here are some of the projects I’ve worked on:
 
-- **[Resume-Builder-Project](https://github.com/your-user/Resume-Builder-Project)** – A user-friendly resume builder that lets users create professional resumes using customizable inbuilt templates.
+- **[Resume-Builder-Project](https://github.com/AnubhavShivhare2003/Resume-Builder-Project)** – A user-friendly resume builder that lets users create professional resumes using customizable inbuilt templates.
 
 - **[Match-me](https://github.com/ravithejagolla/Match-me)** – A swipe-based matchmaking app that connects users through interactive profiles, real-time engagement, and smart matching algorithms.  
 - **[Virtual-Classroom](https://github.com/vishal7it/B42_WEB_062_Code-Crafters)** – A web-based Learning Management System offering virtual classrooms with video conferencing, document sharing, and real-time collaborative tools for an engaging learning experience.  
