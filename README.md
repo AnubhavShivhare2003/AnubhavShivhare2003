@@ -40,7 +40,7 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 
 - 📧 Email: [anubhavshivhare123@gmail.com](mailto:anubhavshivhare123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/anubhav-shivhare-667617212/)  
-- 💻 Portfolio: (https://drive.google.com/file/d/1fx6WPIXCC5xccHKfVGGJ8JW52-e8mq9E/view?usp=sharing)
+- 💻 [Portfolio]: (https://portfolio-nu-rose-97.vercel.app/)
 
 ---
 ## 💡 DSA Proficiency
