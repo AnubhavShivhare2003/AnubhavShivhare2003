@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm Anubhav Shivhare
 
-I'm a passionate **Full Stack Developer** specializing in building scalable web applications with the **MERN stack**. I love turning complex problems into simple, beautiful, and intuitive solutions.
+Driven and detail-oriented **Full Stack Developer** with expertise in building scalable web applications using
+JavaScript, Node.js, Express, MongoDB, and React. Proficient in RESTful API development, form validation,
+authentication, authorization, session management, and cloud deployment. Strong understanding of full software
+development lifecycle, database schema design, and integration of third-party APIs.
 
 ---
 
